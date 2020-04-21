@@ -2,7 +2,7 @@ TITULO DEL PROYECTO:  Serie de números_1
 
 PROPÓSITO DEL PROYECTO: Poner en práctica conocimientos adquiridos hasta el momento respecto a la programación y en el lenguaje.
 
-VERSIÓN : 15/05/2020
+VERSIÓN :  21/04/2020
 
 CÓMO INICIAR ESTE PROYECTO: Ejecutando el main, que funge como método de prueba para realizar pruebas rapidez del funcionamiento del método de interés.
 
