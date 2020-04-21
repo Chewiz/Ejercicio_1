@@ -1,3 +1,4 @@
+TITULO DEL PROYECTO:  Serie de números_1
 
 PROPÓSITO DEL PROYECTO: Poner en práctica conocimientos adquiridos hasta el momento respecto a la programación y en el lenguaje.
 
